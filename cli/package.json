@@ -20,7 +20,7 @@
   "dependencies": {
     "@octokit/rest": "^19.0.5",
     "front-matter": "^4.0.2",
-    "minimatch": "^5.1.0",
+    "minimatch": "^6.1.6",
     "minipass": "^3.3.4",
     "pacote": "^15.0.2",
     "proc-log": "^3.0.0",
